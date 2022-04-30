@@ -15,12 +15,6 @@ Simply extract the `DokusCore--SettingsMenu` into your `resources` folder, and <
 start it via `ensure DokusCore--SettingsMenu`.
 
 ---
-# Install DokusCore withing 10 minutes!
-Simply [Download](https://github.com/DokusCore/Server-Prebuild) the prebuild server that has the server and all its features <br>
-pre-Installed. Simply add your server artifacts and configure the cfg files, <br>
-inject the database and you're done!
-
----
 # Plugin Information
 With this settings menu, players can adjust their client language, logout, <br>
 save player coordinates to the database, play music and many more. This menu is
